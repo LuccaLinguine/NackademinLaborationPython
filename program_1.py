@@ -26,7 +26,7 @@ for i in range(100):
 
 # here i create a function that prints the list of data
 def show_data():
-    # Implement
+   # iterates through all items in my list and prints them
     for item in random_numbers:
         print(item)
 
